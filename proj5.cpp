@@ -1,9 +1,9 @@
 /*****************************************************************************
  ** File: proj5.cpp
  ** Project: CMSC 202 Project 5, Spring 2022
- ** Author:  Kush Shah and CMSC202
+ ** Author:  CMSC202
  ** Date:    04/05/2022
- ** Email:   k216@umbc.edu
+ ** Email:   bmaher1@umbc.edu
  **
  Description: CPP file for main. Calls Trivia's start function. 
 *****************************************************************************/
